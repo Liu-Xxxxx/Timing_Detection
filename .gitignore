@@ -50,3 +50,16 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+*.crf
+.vscode/*
+MDK-ARM/JLinkLog.txt
+MDK-ARM/JLinkSettings.ini
+MDK-ARM/Timing_Detection.uvguix.Administrator
+MDK-ARM/Timing_Detection/Timing_Detection_Timing_Detection.dep
+MDK-ARM/Timing_Detection/Timing_Detection.axf
+MDK-ARM/Timing_Detection/Timing_Detection.build_log.htm
+MDK-ARM/Timing_Detection/Timing_Detection.htm
+MDK-ARM/Timing_Detection/Timing_Detection.lnp
+MDK-ARM/Timing_Detection/Timing_Detection.sct
+MDK-ARM/DebugConfig/Timing_Detection_STM32F103RC_1.0.0.dbgconf
